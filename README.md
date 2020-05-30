@@ -25,3 +25,6 @@ PPwIS, sem 4,lab 4,Java
 6.  Присутствует кнопка сброса всех вычислений. 
 
 В левой части калькулятора реализовано отображение, предназначенное для просмотра дерева разбора выражения.
+
+![Calculator Image](https://github.com/KsenyaBantsevich/PPwIS_lab4/raw/dev/calc.JPG)
+![Calculator Image](https://github.com/KsenyaBantsevich/PPwIS_lab4/raw/dev/calculator.JPG)
