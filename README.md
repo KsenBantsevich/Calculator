@@ -28,5 +28,5 @@ PPwIS, sem 4,lab 4,Java
 
 В левой части калькулятора реализовано отображение, предназначенное для просмотра дерева разбора выражения.
 
-![Calculator Image](https://github.com/KsenyaBantsevich/PPwIS_lab4/raw/dev/calc.JPG)
-![Calculator Image](https://github.com/KsenyaBantsevich/PPwIS_lab4/raw/dev/calculator.JPG)
+![Calculator Image](https://github.com/KsenyaBantsevich/PPwIS_lab4/raw/master/calc.JPG)
+![Calculator Image](https://github.com/KsenyaBantsevich/PPwIS_lab4/raw/master/calculator.JPG)
